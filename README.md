@@ -41,7 +41,7 @@ Exemplificação de um fluxo de contribuição em um
 projeto utilizando o Git:
 
 ```
-**1 ￫** Primeiramente deve-se clonar o código-fonte
+1 ￫ Primeiramente deve-se clonar o código-fonte
 do projeto na máquina, para que os arquivos fiquem
 disponíveis localmente.
 ```
