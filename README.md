@@ -11,14 +11,14 @@ em um projeto modifiquem o código-fonte.
 Versionamento possibilita a criação de um histórico
 resgatável de um software.
 ```
-↪ **Centralizado/Linear** ￫ o projeto monitorado é
+↪ Centralizado/Linear ￫ o projeto monitorado é
 salvo por meio de commit para o repositório central.
 É necessário ter conexão ativa com o servidor
 constantemente para dar um commit e ter
 monitoramento do código.
 ```
 ```
-↪ **Distribuído** ￫ o projeto é salvo por meio de
+↪ Distribuído ￫ o projeto é salvo por meio de
 commit para o repositório local e compartilhado
 dando um push para o repositório remoto.
 ```
@@ -46,23 +46,23 @@ do projeto na máquina, para que os arquivos fiquem
 disponíveis localmente.
 ```
 ```
-**2 ￫** Criar uma Branch, ramificação totalmente
+2 ￫ Criar uma Branch, ramificação totalmente
 independente, que irá possibilitar a alteração dos
 arquivos do projeto sem interferir as originais.
 ```
 ```
-**3 ￫** A criação e alteração dos arquivos serão
+3 ￫ A criação e alteração dos arquivos serão
 divididas em commits.
 **A descrição dos commits devem ser objetivas, pois
 ficarão salvas no histórico das alterações.**
 ```
 ```
-**4 ￫** Com a funcionalidade totalmente finalizada, a
+4 ￫ Com a funcionalidade totalmente finalizada, a
 Branch deve ser enviada, com todas as alterações,
 de volta para o repositório remoto.
 ```
 ```
-**5 ￫** A mesclagem das modificações da Branch com
+5 ￫ A mesclagem das modificações da Branch com
 os arquivos originais do projeto da Branch principal
 ou máster, é feita pelo comando Marge. Após isso,
 é necessário dar um commit e um push, para enviar
