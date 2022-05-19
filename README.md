@@ -69,3 +69,18 @@ ou máster, é feita pelo comando Marge. Após isso,
 a ramificação máster mesclada ao repositório
 remoto.
 ```
+
+# #2 Introdução ao GitHub
+
+## 2.1 O que é?
+GitHub é uma plataforma de hospedagem de
+código-fonte e arquivos com controle de versão
+usando o Git. É como uma plataforma social
+colaborativa, onde programadores e empresas
+colocam seus projetos para o desenvolvimento do
+código.
+
+## 2.2 Para que serve
+Por meio dele, é possível acompanhar qualquer
+alteração e quem a efetuou, além de permitir a
+restauração do código removido ou modifica
