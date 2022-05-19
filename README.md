@@ -11,14 +11,14 @@ em um projeto modifiquem o código-fonte.
 Versionamento possibilita a criação de um histórico
 resgatável de um software.
 ```
-↪ Centralizado/Linear ￫ o projeto monitorado é
+↪ **Centralizado/Linear** ￫ o projeto monitorado é
 salvo por meio de commit para o repositório central.
 É necessário ter conexão ativa com o servidor
 constantemente para dar um commit e ter
 monitoramento do código.
 ```
 ```
-↪ Distribuído ￫ o projeto é salvo por meio de
+↪ **Distribuído** ￫ o projeto é salvo por meio de
 commit para o repositório local e compartilhado
 dando um push para o repositório remoto.
 ```
