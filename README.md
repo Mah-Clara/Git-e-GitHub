@@ -1,4 +1,6 @@
-# Git e GitHub - Introdução ao Git
+# Git e GitHub
+
+# #1 Introdução ao Git
 
 ## 1.1 O que é?
 O Git é um Sistema de Controle de Versão (VCS)
